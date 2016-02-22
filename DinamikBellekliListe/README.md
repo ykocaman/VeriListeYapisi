@@ -3,8 +3,8 @@ Dinamik bellekli liste uygulaması ve hash fonksiyonu
 
 Tarih: 25.03.2015
 
-**Kullanılan Dil:** Java
-**IDE:** Eclipse
+**Kullanılan Dil:** Java  
+**IDE:** Eclipse  
 
 **Tanıtım:**
 
